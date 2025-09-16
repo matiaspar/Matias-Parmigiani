@@ -1,0 +1,7 @@
+{
+  "name": "Misterio en el Concejo",
+  "description": "Una aventura interactiva de misterio al estilo de Agatha Christie, ambientada en el Concejo Deliberante de Córdoba. Interroga, investiga y resuelve el crimen usando tu ingenio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
